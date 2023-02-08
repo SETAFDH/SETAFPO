@@ -1,5 +1,7 @@
 # HTR data for the SETAF Project
 
+Coucou Pierre Olivier
+
 ## Data
 
 ALTO files with segmentation and transcription fully corrected manually
